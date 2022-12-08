@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Karen Landini :)
 
 - 🌱 Aprendendo programação web
-- 🐱‍🏍 Vestibulanda de TI 
 - 😄 Pronouns: ela/dela
 
 
