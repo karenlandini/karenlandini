@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Karen Landini :)
 
-- 🌱 Aprendendo programação web
+- 🌱 Aprendendo Python 
 - 😄 Pronouns: ela/dela
 
 
